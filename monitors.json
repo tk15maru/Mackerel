@@ -2,7 +2,7 @@
     "monitors": [
         {
             "id": "3eMrff18XbG",
-            "name": "CPU_test222%",
+            "name": "CPU_test2223333%",
             "type": "host",
             "metric": "cpu%",
             "operator": ">",

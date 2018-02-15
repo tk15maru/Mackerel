@@ -2,7 +2,7 @@
     "monitors": [
         {
             "id": "3eMrff18XbG",
-            "name": "CPU_test%",
+            "name": "CPU_test222%",
             "type": "host",
             "metric": "cpu%",
             "operator": ">",
@@ -16,7 +16,7 @@
         },
         {
             "id": "3eMroZtQNhq",
-            "name": "Filesystem %",
+            "name": "Filesystem_test %",
             "type": "host",
             "metric": "disk%",
             "operator": ">",

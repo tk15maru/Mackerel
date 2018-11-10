@@ -1,7 +1,7 @@
 {
     "monitors": [
         {
-            "id": "3eMrff18XbG",
+            "id": "****",
             "name": "CPU_test2223333%",
             "type": "host",
             "metric": "cpu%",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "3eMroZtQNhq",
+            "id": "****",
             "name": "Filesystem_test %",
             "type": "host",
             "metric": "disk%",
